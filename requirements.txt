@@ -1,0 +1,5 @@
+chromadb>=0.5
+openai>=1.0
+pypdf>=4.0
+streamlit>=1.30
+python-dotenv>=1.0
